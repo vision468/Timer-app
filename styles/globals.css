@@ -10,3 +10,6 @@ html, head, body {
 /* .background-image {
     background: url('../public/background.svg') cover center no-repeat;
 } */
+.custom-bg {
+    background-image: url('../public/background.svg');
+}
